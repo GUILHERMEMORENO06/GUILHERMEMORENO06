@@ -1,16 +1,15 @@
-## Hi there 👋
+### BOAS VINDAS AO MEU PERFIL👋
 
-<!--
-**GUILHERMEMORENO06/GUILHERMEMORENO06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME É GUILHERME MORENO
 
-Here are some ideas to get you started:
+- ESTOU ESTUDANDO NO [ALURA](https://www.alura.com.br)
+- ESTOU ME DESENVOLVENDO NA LINGUAGEM JAVA SCRIPT
+- UITLIZO ESSE ESPAÇO PARA COMPARTILHAR E ORGANIZAR OS MEUS PROJETOS DESENVOLVIDOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### VOCE PODE ENTRAR EM CONTATO COMIGO 📫
+
+ gm486698@gmail.com
+ 
+ @gui_moreno__
+
+ ![]( https://media1.tenor.com/m/5BYK-WS0__gAAAAd/cool-fun.gif)
