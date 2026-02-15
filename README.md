@@ -1,15 +1,12 @@
 ### BOAS VINDAS AO MEU PERFIL👋
 
-MEU NOME É GUILHERME MORENO
+Meu nome é Guilherme Moreno Castilho
 
-- ESTOU ESTUDANDO NO [ALURA](https://www.alura.com.br)
-- ESTOU ME DESENVOLVENDO NA LINGUAGEM JAVA SCRIPT
+- Estou estudando ciencias da computação - primeiro semestre
+- Estou me desenvolvendo na linguagem java script e em phyton
 - UITLIZO ESSE ESPAÇO PARA COMPARTILHAR E ORGANIZAR OS MEUS PROJETOS DESENVOLVIDOS
 
  ### VOCE PODE ENTRAR EM CONTATO COMIGO 📫
 
  gm486698@gmail.com
  
- @gui_moreno__
-
- ![]( https://media1.tenor.com/m/5BYK-WS0__gAAAAd/cool-fun.gif)
